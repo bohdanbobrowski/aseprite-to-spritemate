@@ -2,16 +2,16 @@
 
 Script for <a href="https://www.aseprite.org">Aseprite</a> to export Commodore 64 sprites to <a href="https://github.com/Esshahn/spritemate">Spritemate</a> json format - **from which sprites can be easily exported to  Kickassembler or BASIC format**.
 
-Script is very simple, and rather experimental but should work at least for multicolor sprites (hi-res is not tested).
+Script is very simple, and rather experimental but should work at least for *multicolor* sprites (*hi-res* is not tested yet).
 
 ## Sprite requirements
 
-- size: 12\*21 for multicolor or 24\*21 for hi-res
+- size: `12*21px` for *multicolor* or `24*21px` for *hi-res*
 - colors: indexed colors is required, and ofc "Commodore 64" pallete
 
 ## Installation
 
-Just download lua file and copy to your scripts folder (in Linux it's located in '~/.config/aseprite/scripts'), then start Aseprite and enjoy!
+Just download lua file and copy to your scripts folder (in Linux it's located in `~/.config/aseprite/scripts`), then start Aseprite and enjoy!
 
 ## External links
 
