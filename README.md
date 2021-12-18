@@ -6,7 +6,7 @@ Script is very simple, and rather experimental but should work at least for mult
 
 ## Sprite requirements
 
-- size: 12*21 for multicolor or 24*21 for hi-res
+- size: 12\*21 for multicolor or 24\*21 for hi-res
 - colors: indexed colors is required, and ofc "Commodore 64" pallete
 
 ## Installation
