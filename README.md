@@ -13,6 +13,12 @@ Script is very simple, and rather experimental but should work at least for *mul
 
 Just download lua file and copy to your scripts folder (in Linux it's located in `~/.config/aseprite/scripts`), then start Aseprite and enjoy!
 
+**To install on Linux you can use this command:**
+
+```
+cd ~/.config/aseprite/scripts && wget "https://raw.githubusercontent.com/bohdanbobrowski/aseprite-to-spritemate/main/Export%20Spritemate.lua"
+```
+
 ## External links
 
 Documentation used to create this mighty tool:
